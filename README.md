@@ -150,6 +150,8 @@ The system was deployed and tested at **7 different locations** across Jonesboro
 - Office environments
 
 ---
+## 📑 Presentation
+[View Full Presentation](presentation.pdf)
 
 ## 🚀 Getting Started
 
